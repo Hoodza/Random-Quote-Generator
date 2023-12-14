@@ -1,0 +1,28 @@
+.container {
+    width: 80%;
+    margin: 17px auto;
+    text-align: center;
+
+}
+
+.container h1 {
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container p {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container button {
+    font-size: 13.3333px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 32px 88px;
+    color: white;
+    background-color: rgb(21, 21, 250);
+}
+
+.container button:hover {
+    background-color: rgb(0, 128, 0);
+}
